@@ -1,2 +1,9 @@
-# 9b5e0bf3445a1597d1685918b328c45f
-IBM Project
+IBM Full Stack Cloud Developer Project
+
+Application Developement With Django, Databases and SQL
+
+Hi,
+
+Welcome to the repository,
+
+I've added all the necessary components and dependencies for the code to run efficiently.
